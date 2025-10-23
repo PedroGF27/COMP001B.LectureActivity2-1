@@ -1,0 +1,18 @@
+h1 {
+    background-color: red;
+    padding: 10px 10px 10px 10px;
+    margin: 30px 60px 30px 60px;
+}
+
+p {
+    background-color: orange;
+    border: dashed;
+}
+
+.width {
+    width: 300px;
+}
+
+#middle {
+    margin: auto;
+}
